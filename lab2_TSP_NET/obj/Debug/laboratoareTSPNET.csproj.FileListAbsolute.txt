@@ -1,0 +1,9 @@
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\laboratoareTSPNET\bin\Debug\laboratoareTSPNET.exe.config
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\laboratoareTSPNET\bin\Debug\laboratoareTSPNET.exe
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\laboratoareTSPNET\bin\Debug\laboratoareTSPNET.pdb
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\laboratoareTSPNET\obj\Debug\laboratoareTSPNET.csprojAssemblyReference.cache
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\laboratoareTSPNET\obj\Debug\laboratoareTSPNET.cal.resources
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\laboratoareTSPNET\obj\Debug\laboratoareTSPNET.Properties.Resources.resources
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\laboratoareTSPNET\obj\Debug\laboratoareTSPNET.csproj.GenerateResource.cache
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\laboratoareTSPNET\obj\Debug\laboratoareTSPNET.exe
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\laboratoareTSPNET\obj\Debug\laboratoareTSPNET.pdb
